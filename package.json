@@ -1,0 +1,19 @@
+{
+  "name": "sampleproject",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhan8080/sampleproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhan8080/sampleproject/issues"
+  },
+  "homepage": "https://github.com/Subhan8080/sampleproject#readme",
+  "description": ""
+}
